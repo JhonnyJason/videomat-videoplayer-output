@@ -1,0 +1,27 @@
+{
+  "name": "videomat-videoplayer",
+  "version": "0.0.1",
+  "description": "JS videoplayer to add some convenience to configure the html5 video element for specific needs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+      "videomat",
+      "videomat.org",
+      "videoplayer",
+      "video",
+      "html5"
+  ],
+  "author": "Lenard Frommelt lenard.frommelt@gne.or.at",
+  "license": "Unlicense",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JhonnyJason/videomat-videoplayer-output.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JhonnyJason/videomat-videoplayer/issues"
+  },
+  "homepage": "https://github.com/JhonnyJason/videomat-videoplayer-output#readmy",
+  "dependencies": {}
+}
